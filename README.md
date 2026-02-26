@@ -10,16 +10,16 @@ I’m Ayush, a cybersecurity enthusiast who loves exploring how systems work and
 - 🌐 Strengthening my knowledge in network security, penetration testing, and web vulnerabilities
 ***
 # Some projects I’m working on:
-- 🔹 Network & System Security
+🔹 Network & System Security
  - Python Port Scanner – A multi-threaded scanner to detect open ports and running services.
  - Packet Sniffer – Capture and analyze network packets to understand traffic patterns and anomalies.
-- 🔹 Web Security & Pentesting
+ 🔹 Web Security & Pentesting
  - Login Bruteforce Simulator – A safe environment to test password strength and understand login attack techniques.
-- 🔹 Cryptography & Secure Communication
+ 🔹 Cryptography & Secure Communication
  - Encryption/Decryption Tool – Implementing ciphers (AES, RSA, Caesar) to explore secure communications.
  - Secure Chat Application – Encrypted messaging between two users to understand real-world secure communication.
  - Password Manager Tool – Securely store and manage passwords, learning encryption and security best practices.
-- 🔹 Research / Advanced
+ 🔹 Research / Advanced
  - Cybersecurity Research Project – Currently working on my research paper focused on Phishing Detection using NLP/AI.
 ***
 # Fun Facts:
