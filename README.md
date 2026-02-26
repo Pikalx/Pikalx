@@ -1,4 +1,4 @@
-## Hi there ![QoobeeGIF](https://github.com/user-attachments/assets/9825af51-bc78-45d1-abad-46d745d79012)
+## Hi there <img src="https://github.com/user-attachments/assets/9825af51-bc78-45d1-abad-46d745d79012" width="24" alt="QoobeeGIF">
 
 I’m Ayush, a cybersecurity enthusiast who loves exploring how systems work and finding ways to make them safer. I enjoy building practical security tools, tackling challenges, and learning by doing.
 
