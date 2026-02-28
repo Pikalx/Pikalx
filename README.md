@@ -29,5 +29,5 @@ I’m **Ayush**, a cybersecurity enthusiast who loves exploring how systems work
 - 🕹 Gaming and sports keep me energized and competitive
 - 🧩 Puzzle lover — I enjoy challenging my brain daily
 - 🤓 Speak very logically — I like getting straight to the point
-- **🧩 520-day LinkedIn puzzle streak** – Keeping my mind sharp and having fun daily
+- **🧩 521-day LinkedIn puzzle streak** – Keeping my mind sharp and having fun daily
 - 😄 Fun fact: I can spend hours experimenting with tech just for curiosity
