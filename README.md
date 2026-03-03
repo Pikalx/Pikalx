@@ -25,7 +25,10 @@ I’m **Ayush**, a cybersecurity enthusiast who loves exploring how systems work
  - **Cybersecurity Research Project** – Currently working on my research paper focused on Phishing Detection using NLP/AI.
 ***
 ### Certification:
-- **Google Cybersecurity Certificate** <img width="30" height="30" alt="google-cybersecurity-professional-certificate-v-2" src="https://github.com/user-attachments/assets/6bd65a5f-8dec-41b1-a04c-2cdfffbb684c" /> [View Certificate] (https://www.coursera.org/account/accomplishments/professional-cert/certificate/9ZKNQ53QOP87)
+<img width="200"  alt="google-cybersecurity-professional-certificate-v-2" src="https://github.com/user-attachments/assets/6bd65a5f-8dec-41b1-a04c-2cdfffbb684c" />
+
+- #### **Google Cybersecurity Certificate** [View Certificate](https://coursera.org/share/be763e440ab9ddb95aab2d73e889cc83)
+***
 ### Fun Facts:
 - 🕹 Gaming and sports keep me energized and competitive
 - 🧩 Puzzle lover — I enjoy challenging my brain daily
