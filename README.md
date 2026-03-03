@@ -3,7 +3,6 @@
 I’m **Ayush**, a cybersecurity enthusiast who loves exploring how systems work and finding ways to make them safer. I enjoy building practical security tools, tackling challenges, and learning by doing.
 
 ### These days I’m focused on:
-- ✅ Completing the **Google Cybersecurity Certificate** (2–3 courses left, finishing this week)
 - 🛠 Building practical cybersecurity projects to apply what I’ve learned
 - 📊 Conducting cybersecurity research and experiments to deepen my understanding
 - 🕹 Practicing CTF challenges and hands-on security exercises to sharpen my skills
@@ -25,6 +24,8 @@ I’m **Ayush**, a cybersecurity enthusiast who loves exploring how systems work
  #### 🔹 Research / Advanced
  - **Cybersecurity Research Project** – Currently working on my research paper focused on Phishing Detection using NLP/AI.
 ***
+### Certification:
+- **Google Cybersecurity Certificate** <img width="30" height="30" alt="google-cybersecurity-professional-certificate-v-2" src="https://github.com/user-attachments/assets/6bd65a5f-8dec-41b1-a04c-2cdfffbb684c" /> [View Certificate] (https://www.coursera.org/account/accomplishments/professional-cert/certificate/9ZKNQ53QOP87)
 ### Fun Facts:
 - 🕹 Gaming and sports keep me energized and competitive
 - 🧩 Puzzle lover — I enjoy challenging my brain daily
